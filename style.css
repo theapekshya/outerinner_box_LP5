@@ -1,0 +1,32 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        background-color: black;
+        font-size: 20px;
+    }
+    li{
+        list-style-type: none;
+        display: inline;
+    }
+    #outer{
+        background-color: pink;
+        height: 300px;
+        width: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    #inner{
+        background-color: aqua;
+        height: 100px;
+        width: 100px;
+   
+        
+    } 
